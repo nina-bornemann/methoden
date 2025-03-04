@@ -10,6 +10,7 @@ public class Main {
         System.out.println(isEven(20));
 
         System.out.println(multiply(5, 2));
+        System.out.println(multiply(5, 2));
 
     }
 
